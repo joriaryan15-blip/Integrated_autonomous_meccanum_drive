@@ -1,6 +1,7 @@
 # Autonomous Mecanum Drive Robot
 
 An autonomous 4-wheel mecanum drive robot developed using ESP32, encoder feedback, BNO085 IMU, PID control, mecanum kinematics, and vision-based tracking.
+![Autonomous Mecanum Drive Robot](Bot_Image.jpeg)
 
 This repository contains the development and testing of the robot's motion-control system, including wheel-speed tuning, encoder feedback, IMU integration, kinematics, PID control, waypoint following, and vision-based tracking.
 
